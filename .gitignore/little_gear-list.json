@@ -1,0 +1,632 @@
+{
+  "1. Kleidung": {
+    "Unterwäsche": {
+      "Unterhose": {
+        "Beschreibung": "Bequeme Unterhose für Kinder aus Baumwolle.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Strumpfhose_Dünn": {
+        "Beschreibung": "Leichte Strumpfhose für den Sommer.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Strumpfhose_Dick": {
+        "Beschreibung": "Wärmende Strumpfhose für den Winter.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Socken_Sommer": {
+        "Beschreibung": "Leichte Sneakersocken für warme Tage.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Socken_Winter": {
+        "Beschreibung": "Dicke Socken für kalte Temperaturen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Socken_Anti-Rutsch": {
+        "Beschreibung": "Rutschsichere Socken für sicheren Halt.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Oberbekleidung": {
+      "T-Shirt_Kurzarm": {
+        "Beschreibung": "Leichtes Kurzarmshirt für warme Tage.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "T-Shirt_Langarm": {
+        "Beschreibung": "Langarmshirt für kühlere Tage.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Pullover / Hoodie": {
+        "Beschreibung": "Warmer Pullover oder Hoodie für die Übergangszeit.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Jeans_Kurz": {
+        "Beschreibung": "Kurze Jeans für den Sommer – robust und stylisch.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Jeans_Lang": {
+        "Beschreibung": "Lange Jeans für Alltag und Spielplatz.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Jogginghose_Dünn": {
+        "Beschreibung": "Leichte Hose für drinnen oder den Frühling.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Jogginghose_Dick": {
+        "Beschreibung": "Fleece-gefütterte Hose für kalte Tage.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Kleider & Overalls": {
+      "Skirtall_Kurz": {
+        "Beschreibung": "Kurzer Trägerrock für warme Tage.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Skirtall_Lang": {
+        "Beschreibung": "Langer Trägerrock für kühlere Temperaturen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Latzhose_Kurz": {
+        "Beschreibung": "Kurze Latzhose – praktisch für den Sommer.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Latzhose_Lang": {
+        "Beschreibung": "Lange Latzhose aus Jeans oder Cord.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kleid_Normal": {
+        "Beschreibung": "Alltagskleid für jeden Anlass.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kleid_SchöneAnlässe": {
+        "Beschreibung": "Festliches Kleid für besondere Tage.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kleid_Overdressed": {
+        "Beschreibung": "Sehr schickes Kleid für feierliche Anlässe.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Strampler": {
+        "Beschreibung": "Ein bequemer Einteiler für Babys – ideal zum Schlafen oder Spielen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Body": {
+        "Beschreibung": "Einteiliger Unterziehbody für Babys.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schlafanzug_Kurz": {
+        "Beschreibung": "Kurzer Schlafanzug für den Sommer.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schlafanzug_Lang": {
+        "Beschreibung": "Langer Schlafanzug für kühle Nächte.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schlafanzug_Overall": {
+        "Beschreibung": "Schlaf-Overall mit Fuß – hält besonders warm.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Schuhe": {
+      "Hausschuhe": {
+        "Beschreibung": "Bequeme Schuhe für drinnen mit weicher Sohle.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schuhe allgemein": {
+        "Beschreibung": "Alltagsschuhe für draußen oder die Kita.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Gummistiefel": {
+        "Beschreibung": "Wasserfeste Stiefel für regnerische Tage.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Winterschuhe": {
+        "Beschreibung": "Gefütterte Schuhe für kaltes Winterwetter.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Accessoires": {
+      "Mütze": {
+        "Beschreibung": "Mütze für Sommer oder Winter, schützt vor Kälte oder Sonne.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Handschuhe": {
+        "Beschreibung": "Warme Handschuhe für den Winter.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Halstuch / Schal": {
+        "Beschreibung": "Schützt Hals und Nacken bei Wind und Kälte.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Haarband / Schleifchen": {
+        "Beschreibung": "Dekoratives Zubehör für Frisuren.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kinderschmuck": {
+        "Beschreibung": "Kindgerechter Schmuck wie Ringe oder Ketten.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  },
+  "2. Wetter-Kleidung": {
+    "Winter": {
+      "Schneeanzug_Onesie": {
+        "Beschreibung": "Einteiliger Schneeanzug für kalte Tage.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schneeanzug_Jacke": {
+        "Beschreibung": "Winterjacke für den Schneeausflug.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schneeanzug_Hose": {
+        "Beschreibung": "Gefütterte Schneehose für draußen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Winterschuhe / Stiefel": {
+        "Beschreibung": "Wärmende Stiefel für Schnee und Kälte.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Handschuhe": {
+        "Beschreibung": "Gefütterte Handschuhe für den Winter.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Mütze": {
+        "Beschreibung": "Warme Mütze gegen Kälte.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schal": {
+        "Beschreibung": "Schützt Hals und Brust vor Kälte.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Regen": {
+      "Regenjacke": {
+        "Beschreibung": "Wasserabweisende Jacke für nasses Wetter.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Regenhose": {
+        "Beschreibung": "Hose zum Schutz vor Nässe – ideal über normaler Kleidung.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Regen-Overall": {
+        "Beschreibung": "Einteiliger Schutzanzug für Regenwetter.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Regenstiefel": {
+        "Beschreibung": "Wasserfeste Stiefel für Pfützenspaß.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Regenschirm": {
+        "Beschreibung": "Kindgerechter Schirm in kleiner Größe.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  },
+  "3. Schlafen": {
+    "Ausstattung": {
+      "Gitterbett": {
+        "Beschreibung": "Sicheres Bett mit Gittern für Babys und Kleinkinder.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Bettzeug_Matratzenbezug": {
+        "Beschreibung": "Schützender Bezug für Baby- und Kindermatratzen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Bettzeug_DünneDecke": {
+        "Beschreibung": "Leichte Decke für warme Nächte.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Bettzeug_DickeDecke": {
+        "Beschreibung": "Warme Decke für kalte Wintermonate.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Nachtlicht / Projektor": {
+        "Beschreibung": "Beruhigendes Licht mit optionalen Projektionen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Spieluhr": {
+        "Beschreibung": "Musikalische Einschlafhilfe mit sanften Melodien.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schnuller": {
+        "Beschreibung": "Beruhigt das Kind beim Einschlafen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schnuller-Kette": {
+        "Beschreibung": "Verhindert, dass der Schnuller verloren geht.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kuscheldecke": {
+        "Beschreibung": "Weiche Decke zum Schmusen und Einschlafen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kuscheltier fürs Bett": {
+        "Beschreibung": "Stofftier zum Einschlafen und Trösten.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schnuffeltuch": {
+        "Beschreibung": "Tuch mit Tierkopf oder Knoten zum Kuscheln.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Mobile": {
+        "Beschreibung": "Drehbares Spielzeug über dem Bett zur Beruhigung.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Babyphone": {
+        "Beschreibung": "Gerät zur Überwachung des Babys während es schläft.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  },
+  "4. Sport": {
+    "Sportartikel": {
+      "Turnschuhe": {
+        "Beschreibung": "Bequeme Sportschuhe für Aktivitäten drinnen und draußen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Sportkleidung": {
+        "Beschreibung": "Funktionskleidung für Turnen oder Sporteinheiten.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schwimmsachen": {
+        "Beschreibung": "Badebekleidung inkl. Schwimmflügel oder Taucherbrille.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Baden": {
+      "Badeanzug": {
+        "Beschreibung": "Einteiliger Anzug für Schwimm- und Badezeiten.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Wasser-Windel": {
+        "Beschreibung": "Speziell für das Schwimmen konzipierte Windel.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Badespielzeug": {
+        "Beschreibung": "Spielzeug für die Badewanne – macht Baden spaßiger.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Badeente": {
+        "Beschreibung": "Klassisches Badespielzeug in Entenform.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kapuzenhandtuch": {
+        "Beschreibung": "Handtuch mit Kapuze – hält warm nach dem Baden.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Babyshampoo / Kinderbad": {
+        "Beschreibung": "Milde Pflegeprodukte für Haut und Haar.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Ballet": {
+      "Ballett-Body": {
+        "Beschreibung": "Eng anliegendes Oberteil für den Ballettunterricht.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Ballett-Strumpfhose": {
+        "Beschreibung": "Strumpfhose in verschiedenen Farben – elastisch und weich.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Ballettschläppchen": {
+        "Beschreibung": "Leichte Schuhe für den Ballettunterricht.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "TuTu": {
+        "Beschreibung": "Tüllrock für den typischen Ballett-Look.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Wickelshirt / Trainingsjacke": {
+        "Beschreibung": "Hält warm vor und nach dem Training.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Ballett-Tasche": {
+        "Beschreibung": "Tasche für Schuhe, Kleidung und Accessoires.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Haarzubehör": {
+        "Beschreibung": "Schleifen, Spangen oder Haarnetze für Ballettfrisuren.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  },
+  "5. Kostüme & Rollenspiel": {
+    "Verkleidung": {
+      "Prinzessin_Klassisch": {
+        "Beschreibung": "Prinzessinnenkleid in Rosa – klassisch und verspielt.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Prinzessin_Frozen": {
+        "Beschreibung": "Blaues Kleid inspiriert von Elsa aus 'Frozen'.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Prinzessin_Rapunzel": {
+        "Beschreibung": "Gelbes Kleid nach dem Märchenklassiker.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Engel": {
+        "Beschreibung": "Kostüm mit Flügeln – ideal für Weihnachten oder Rollenspiele.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Ladybug (Miraculous)": {
+        "Beschreibung": "Verkleidung als Superheldin aus der TV-Serie.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Feenflügel": {
+        "Beschreibung": "Leichte Flügel für Feenkostüme.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Zauberstab": {
+        "Beschreibung": "Funkelnder Stab für Feen oder Zauberer.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Märchenperücke": {
+        "Beschreibung": "Lange Haare für Märchenfiguren.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kinderschminke": {
+        "Beschreibung": "Hautverträgliche Schminke für kreative Gesichter.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Tierohren / Haarreif": {
+        "Beschreibung": "Tierischer Haarreif für kleine Tiere.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  },
+  "6. Essen & Trinken": {
+    "Möbel": {
+      "Hochstuhl": {
+        "Beschreibung": "Ein stabiler Hochstuhl ermöglicht sicheres Sitzen beim Essen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Hochstuhl-Kissen": {
+        "Beschreibung": "Weiches Kissen für den Hochstuhl, sorgt für mehr Komfort beim Sitzen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Utensilien": {
+      "Koch-Schürze": {
+        "Beschreibung": "Kindgerechte Schürze schützt Kleidung beim Kochen oder Basteln.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Lätzchen": {
+        "Beschreibung": "Schützt Kleidung beim Essen vor Flecken und Krümeln.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kinderbesteck (mit dickem Griff)": {
+        "Beschreibung": "Ergonomisches Besteck mit dickem Griff – ideal für kleine Hände.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Teller mit Unterteilung": {
+        "Beschreibung": "Teller mit mehreren Fächern für verschiedene Speisen – trennt das Essen kindgerecht.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kinder-Geschirr (mit bunten Motiven)": {
+        "Beschreibung": "Buntes Kindergeschirr mit kindgerechten Motiven, meist bruchsicher.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Trinkflasche": {
+        "Beschreibung": "Auslaufsichere Flasche für Wasser, Tee oder Saft.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Trinklernbecher (mit oder ohne Henkel)": {
+        "Beschreibung": "Trinkbecher für Kleinkinder – unterstützt beim eigenständigen Trinken.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Lebensmittel": {
+      "Quetschies": {
+        "Beschreibung": "Fruchtpüree in praktischer Quetschbeutel-Form – ideal für unterwegs.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Fruchtbecher": {
+        "Beschreibung": "Fertig verpackte Obstbecher – leckerer Snack für Zwischendurch.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Babykekse": {
+        "Beschreibung": "Kleinkindgerechte Kekse – unterstützen beim Zahnen und fördern das Kauen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kindermilch / Trinkmahlzeiten": {
+        "Beschreibung": "Milchprodukte mit Zusatznährstoffen speziell für Kleinkinder.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  },
+  "7. Pflege & Wickeln": {
+    "Windeln": {
+      "Windeln_Dick": {
+        "Beschreibung": "Saugstarke Windeln für die Nacht oder längere Ausflüge.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Windeln_Dünn": {
+        "Beschreibung": "Leichte Windeln für tagsüber – flexibel und komfortabel.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Stoffwindel": {
+        "Beschreibung": "Wiederverwendbare Windeln aus Baumwolle – umweltschonend.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Windel-Überhose": {
+        "Beschreibung": "Dichtet Stoffwindeln ab – waschbar und wasserdicht.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Zubehör": {
+      "Feuchttücher": {
+        "Beschreibung": "Reinigungstücher für Hautpflege und Windelwechsel.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Wundschutzcreme": {
+        "Beschreibung": "Pflegecreme gegen Rötungen im Windelbereich.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Babyöl": {
+        "Beschreibung": "Öl zur Pflege und Massage zarter Babyhaut.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Babypuder": {
+        "Beschreibung": "Puder gegen Feuchtigkeit und Hautreizungen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Windeleimer": {
+        "Beschreibung": "Geruchsarmer Mülleimer für benutzte Windeln.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Wickelunterlage": {
+        "Beschreibung": "Polsterung zum Wickeln – hygienisch und tragbar.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Body": {
+        "Beschreibung": "Ein bequemer Einteiler, ideal als Unterwäsche für Babys.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Wickeltisch": {
+        "Beschreibung": "Tisch mit Stauraum für bequemes Wickeln.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  },
+  "8. Spielen & Lernen": {
+    "Spielsachen": {
+      "Plüschtiere": {
+        "Beschreibung": "Weiche Kuscheltiere für jedes Alter.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Puppen / Figuren": {
+        "Beschreibung": "Spielfiguren und Puppen fördern die Fantasie.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Spielküche / Kaufladen": {
+        "Beschreibung": "Fördert Rollenspiele mit Lebensmitteln.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Bauklötze": {
+        "Beschreibung": "Bausteine aus Holz oder Plastik für Kreativität und Motorik.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Knete": {
+        "Beschreibung": "Fördert Kreativität und Feinmotorik durch Formen und Modellieren.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Malbücher": {
+        "Beschreibung": "Malbücher inkl. Stifte oder Sticker für kreatives Gestalten.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Puzzles": {
+        "Beschreibung": "Fördert Logik, Geduld und Feinmotorik.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Lernspielzeug": {
+        "Beschreibung": "Spielzeug, das Farben, Formen und Zahlen vermittelt.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kinder-Musikinstrumente": {
+        "Beschreibung": "Xylofon, Rassel & Co. für erste Musikerfahrungen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    },
+    "Bücher & Medien": {
+      "Kinderbücher": {
+        "Beschreibung": "Papp- und Vorlesebücher zur Sprachförderung.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Hörspiele": {
+        "Beschreibung": "Geschichten als CD oder MP3 – ideal zur Unterhaltung.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Toniebox oder alternatives Abspielgerät": {
+        "Beschreibung": "Kindgerecher Musik- und Hörspielplayer.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kinder-Apps": {
+        "Beschreibung": "Altersgerechte Lern- und Spielapps für Tablets oder Smartphones.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  },
+  "9. Unterwegs": {
+    "Mobilität & Reisen": {
+      "Rucksack": {
+        "Beschreibung": "Kinderrucksack für Spielzeug, Snacks oder Kleidung.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Wickeltasche": {
+        "Beschreibung": "Tasche mit allem für unterwegs – inkl. Windeln & Tücher.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Autositz": {
+        "Beschreibung": "Kindersitz für die sichere Autofahrt.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Kinderwagen": {
+        "Beschreibung": "Kinderwagen für Spaziergänge und Reisen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Reisebett": {
+        "Beschreibung": "Faltbares Bett für Übernachtungen außerhalb.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Reisespielzeug": {
+        "Beschreibung": "Kompakte Spielsachen für Reisen und Ausflüge.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Sonnenhut": {
+        "Beschreibung": "Schützt Gesicht und Nacken vor Sonne.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Sonnenbrille": {
+        "Beschreibung": "Schützt empfindliche Kinderaugen vor UV-Strahlen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  },
+  "10. Möbel & Raum": {
+    "Möbel": {
+      "Wickeltisch": {
+        "Beschreibung": "Bequemer Ort zum Wickeln mit Stauraum.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schränke & Regale": {
+        "Beschreibung": "Aufbewahrung für Kleidung und Spielzeug.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Schreibtisch": {
+        "Beschreibung": "Erster Arbeitsplatz zum Malen und Lernen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Gitterbett": {
+        "Beschreibung": "Sicheres Babybett mit Gitterstäben.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Nachtlicht": {
+        "Beschreibung": "Kleines Licht zur Orientierung in der Nacht.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Wäschekorb (mit Motiv)": {
+        "Beschreibung": "Kindgerechter Korb zur Wäscheaufbewahrung.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  },
+  "11. Sicherheits- & Kontroll-Equipment": {
+    "Sonderausstattung": {
+      "Diaper Locker": {
+        "Beschreibung": "Sicherheitsschloss für Windeln oder Pflegeartikel.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Zwangsjacke_Body": {
+        "Beschreibung": "Einschränkender Body für besondere Anforderungen.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Zwangsjacke_Fäustlinge": {
+        "Beschreibung": "Fäustlinge, um Kratzen oder Greifen zu verhindern.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      },
+      "Zwangsjacke_Fußfesseln / Boots": {
+        "Beschreibung": "Spezielles Schuhwerk zur Bewegungseinschränkung.",
+        "Img-URL": "assets/images/placeholder-item.png"
+      }
+    }
+  }
+}
