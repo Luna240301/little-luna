@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Little - Luna</title>
+    <title>Little Luna</title>
     
     <style>
     /* Colors */
@@ -128,9 +128,24 @@
         z-index: 1001;
     }
 
+    /* Sub-Dropdown-2 Content */
+    .sub-content-2 {
+        display: none;
+        position: absolute;
+        left: 100%;
+        top: 0;
+        background-color: var(--background-color-light-01);
+        min-width: 200px;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        border-radius: 10px;
+        padding: 10px;
+        z-index: 1001;
+    }
+
     /* Links in Dropdown */
     .dropdown-content a,
-    .sub-content a {
+    .sub-content a,
+    .sub-content-2 a {
         color: var(--text-color-dark);
         padding: 8px 12px;
         text-decoration: none;
@@ -280,17 +295,13 @@
             margin-top: 5px;
         }
         
-        .sub-content {
-            position: static;
-            width: 100%;
-            box-shadow: none;
-            margin-top: 5px;
-        }
+        .sub-content,
         .sub-content-2 {
             position: static;
             width: 100%;
             box-shadow: none;
             margin-top: 5px;
+            left: 0;
         }
     }
 
@@ -482,7 +493,7 @@
       <section class="section-items">
         <article class="item">
           <img src="placeholder-item.png" alt="T-Shirt_Kurzarm Bild">
-          <h4 class="item__title">T-Shirt Kurzarm</h4>
+          <h4 class="item__title">T-Shirt_Kurzarm</h4>
           <p class="item__desc">Leichtes Kurzarmshirt für warme Tage.</p>
         </article>
         <article class="item">
