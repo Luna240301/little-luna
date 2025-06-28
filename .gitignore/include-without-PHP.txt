@@ -1,0 +1,4 @@
+<!-- include Position -->
+<div id="main-placeholder"></div>
+<!-- include Action -->
+<script>fetch('main.html').then(r=>r.text()).then(html=>document.getElementById('main-placeholder').innerHTML=html)</script> 
